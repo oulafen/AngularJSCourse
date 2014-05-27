@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da4f401b-72ca-4963-b358-d77a7bc8a128" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json" afterPath="$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json" afterPath="$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json" />
     </list>
     <ignored path="AngularJSCourse.iws" />
@@ -37,7 +36,7 @@
       <file leaf-file-name="practice_1,视图模版.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="35" selection-start="566" selection-end="566" vertical-scroll-proportion="0.12605043" vertical-offset="58" max-vertical-offset="741">
+            <state line="9" column="140" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.18991597" vertical-offset="58" max-vertical-offset="741">
               <folding />
             </state>
           </provider>
@@ -391,7 +390,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="35" selection-start="566" selection-end="566" vertical-scroll-proportion="0.12605043" vertical-offset="58" max-vertical-offset="741">
+        <state line="9" column="140" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.18991597" vertical-offset="58" max-vertical-offset="741">
           <folding />
         </state>
       </provider>
