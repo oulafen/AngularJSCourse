@@ -4,7 +4,7 @@
     "point": 200,
 
     "simple_desc": "实现页面(View)的显示数据由控制器(Controller)提供。",
-    "desc": "[1]在配置路由的挑战中，你已经能成功的进入到帮订餐页面(help\\_ordering\\_page.html)。\n[2]本关你要做的就是让帮订餐页面(help\\_ordering\\_page.html)的按钮显示出”选人“这两个字。\n[3]在页面按钮上显示的“选人”这两个字，是由HelpOrderingController 提供的。",
+    "desc": "[1]在配置路由的挑战中，你已经能成功的进入到帮订餐页面(help\\_ordering\\_page.html)。\n\r[2]本关你要做的就是让帮订餐页面(help\\_ordering\\_page.html)的按钮显示出”选人“这两个字。\n\r[3]在页面按钮上显示的“选人”这两个字，是由HelpOrderingController 提供的。",
     "step_desc": "1.首先请点击右侧的 help\\_ordering\\_page.html， 在此文件内有个 choose\\_people  变量，你要做的就是让 choose\\_people 变量的值等于”选人“。 2.当然你不可以将页面上 choose\\_people 直接修改成“选人”，你必须在 HelpOrderingController.js 文件的 function 内,使用 $scope 获取到 choose\\_people 这个变量，并赋值。\n\r3.点击保存并提交代码按钮后，若代码编写正确，弹框页面将会自动由订餐首页(home\\_page.html)跳转到帮订餐页面(help\\_ordering\\_page.html)，同时在帮订餐页面上会显示选人按钮。在编辑页面会提示“挑战成功！”。\n注意：请勿修改help\\_ordering_page.html 文件的内容。",
     "tips": "- 1.请在 HelpOrderingController.js 文件的 function 内，\n- 2.使用 $scope.choose\\_people 获取到choose\\_people变量，并赋值。",
     "answer": "- 在 HelpOrderingController.js 文件的 function 中编写以下代码 \n\r      $scope.choose\\_people = '选人';",
