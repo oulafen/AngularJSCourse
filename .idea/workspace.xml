@@ -4,7 +4,9 @@
     <list default="true" id="da4f401b-72ca-4963-b358-d77a7bc8a128" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section_angular: ngRepeat/practice_1,列表迭代器.json" afterPath="$PROJECT_DIR$/section_angular: ngRepeat/practice_1,列表迭代器.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section_angular: data binding/practice_1,变量绑定.json" afterPath="$PROJECT_DIR$/section_angular: data binding/practice_1,变量绑定.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json" afterPath="$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json" afterPath="$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section_angular: data binding/practice_2,函数绑定.json" afterPath="$PROJECT_DIR$/section_angular: data binding/practice_2,函数绑定.json" />
     </list>
     <ignored path="AngularJSCourse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,16 +40,25 @@
       <file leaf-file-name="practice_1,列表迭代器.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section_angular: ngRepeat/practice_1,列表迭代器.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="54" selection-start="187" selection-end="187" vertical-scroll-proportion="-4.75" vertical-offset="0" max-vertical-offset="722">
+            <state line="11" column="56" selection-start="748" selection-end="748" vertical-scroll-proportion="-7.464286" vertical-offset="0" max-vertical-offset="722">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="practice_super.json" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="practice_2,函数绑定.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section_angular: data binding/practice_2,函数绑定.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="158" selection-start="1375" selection-end="1375" vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="722">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practice_super.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/section_super/practice_super.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="24" selection-start="86" selection-end="86" vertical-scroll-proportion="-3.392857" vertical-offset="0" max-vertical-offset="437">
+            <state line="5" column="24" selection-start="86" selection-end="86" vertical-scroll-proportion="0.16695958" vertical-offset="0" max-vertical-offset="569">
               <folding />
             </state>
           </provider>
@@ -56,7 +67,16 @@
       <file leaf-file-name="practice_1,本地存储.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="116" selection-start="1012" selection-end="1012" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="798">
+            <state line="13" column="120" selection-start="1016" selection-end="1016" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="798">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="practice_2,显示与隐藏.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section_angular: ngShow/practice_2,显示与隐藏.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="91" selection-start="530" selection-end="530" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
@@ -65,16 +85,16 @@
       <file leaf-file-name="practice_1,变量绑定.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section_angular: data binding/practice_1,变量绑定.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="868" selection-end="868" vertical-scroll-proportion="-4.357143" vertical-offset="49" max-vertical-offset="646">
+            <state line="9" column="75" selection-start="926" selection-end="926" vertical-scroll-proportion="-4.357143" vertical-offset="49" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="practice_1,视图模版.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="practice_1,视图模版.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="143" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.19859402" vertical-offset="58" max-vertical-offset="741">
+            <state line="9" column="144" selection-start="1118" selection-end="1118" vertical-scroll-proportion="-4.035714" vertical-offset="58" max-vertical-offset="741">
               <folding />
             </state>
           </provider>
@@ -93,14 +113,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/section_angular: data binding/practice_2,函数绑定.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/section_angular: ngShow/practice_2,显示与隐藏.json" />
         <option value="$PROJECT_DIR$/section_super/practice_super.json" />
-        <option value="$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json" />
         <option value="$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json" />
-        <option value="$PROJECT_DIR$/section_angular: ngRepeat/practice_1,列表迭代器.json" />
         <option value="$PROJECT_DIR$/section_angular: data binding/practice_1,变量绑定.json" />
+        <option value="$PROJECT_DIR$/section_angular: ngRepeat/practice_1,列表迭代器.json" />
+        <option value="$PROJECT_DIR$/section_angular: data binding/practice_2,函数绑定.json" />
+        <option value="$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json" />
       </list>
     </option>
   </component>
@@ -317,7 +337,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11617647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18455882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -363,13 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section_angular: data binding/practice_2,函数绑定.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="48" selection-start="1462" selection-end="1462" vertical-scroll-proportion="0.36731106" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/course.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="19" selection-start="391" selection-end="391" vertical-scroll-proportion="0.33391917" vertical-offset="0" max-vertical-offset="569">
@@ -384,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section_angular: ngShow/practice_2,显示与隐藏.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="91" selection-start="530" selection-end="530" vertical-scroll-proportion="0.2554622" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/section_angular: ngShow/section.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
@@ -398,37 +404,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section_angular: ngRepeat/practice_1,列表迭代器.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="54" selection-start="187" selection-end="187" vertical-scroll-proportion="-4.75" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section_super/practice_super.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="86" selection-end="86" vertical-scroll-proportion="-3.392857" vertical-offset="0" max-vertical-offset="437">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="116" selection-start="1012" selection-end="1012" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="798">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/section_angular: data binding/practice_1,变量绑定.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="868" selection-end="868" vertical-scroll-proportion="-4.357143" vertical-offset="49" max-vertical-offset="646">
+        <state line="9" column="75" selection-start="926" selection-end="926" vertical-scroll-proportion="-4.357143" vertical-offset="49" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/section_angular: template view/practice_1,视图模版.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="143" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.19859402" vertical-offset="58" max-vertical-offset="741">
+        <state line="9" column="144" selection-start="1118" selection-end="1118" vertical-scroll-proportion="-4.035714" vertical-offset="58" max-vertical-offset="741">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section_angular: ngRepeat/practice_1,列表迭代器.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="56" selection-start="748" selection-end="748" vertical-scroll-proportion="-7.464286" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section_angular: data binding/practice_2,函数绑定.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="158" selection-start="1375" selection-end="1375" vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section_angular: ngShow/practice_1,本地存储.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="120" selection-start="1016" selection-end="1016" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section_angular: ngShow/practice_2,显示与隐藏.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="91" selection-start="530" selection-end="530" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section_super/practice_super.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="86" selection-end="86" vertical-scroll-proportion="0.16695958" vertical-offset="0" max-vertical-offset="569">
           <folding />
         </state>
       </provider>
